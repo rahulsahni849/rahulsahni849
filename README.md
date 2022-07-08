@@ -16,3 +16,12 @@
        align="right"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsahni849&count_private=true&line_height=52" />
 </p>
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/rahulsahni849/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/rahulsa29044669">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
