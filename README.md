@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi , I am r4hu1 s4hn1 👋
 
 - 🔭 I’m currently a Student
 - 🌱 I’m currently Learning **MERN stack**
