@@ -1,7 +1,7 @@
 # Hi , I am r4hu1 s4hn1 👋
 
 - 🔭 I’m currently a Student
-- 🌱 I’m currently Learning **MERN stack**
+- 🌱 I’m currently exploring **random.choice["MERN stack","python networking programming","scripting","DB architecture"]**
 - 💬 Ask me about **Anything**
 - 📫 How to reach me: view **Email**
 - ⚡ Fun fact: I am new Here😁
